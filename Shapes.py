@@ -6,5 +6,5 @@ class Shapes(object):
     """
 
 
-    def calculate_the_area_of_a_rectangle(length, width):
+    def calculate_the_area_of_a_rectangles(length, width):
       return length * width
