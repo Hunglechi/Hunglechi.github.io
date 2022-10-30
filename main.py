@@ -19,7 +19,7 @@ def main():
         except TypeError:
             print("Please input a positive number!\n")
         except Exception:
-            print("The length must bigger the width!!!!!!!\n")
+            print("The length must bigger the width!!!!!!!!!!!!\n")
 
 
 if __name__ == "__main__":
