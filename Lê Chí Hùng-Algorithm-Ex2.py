@@ -22,6 +22,7 @@ for i in range(0,row-1):
         else:
             start=sumPart(start)
             print(start,end=" ")
+    print("helloaaaaaa")
 
     print("h")
 
