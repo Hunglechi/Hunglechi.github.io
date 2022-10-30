@@ -24,5 +24,3 @@ for i in range(0,row-1):
             print(start,end=" ")
     print()
 
-#commit1-1
-#commit2-1-1
