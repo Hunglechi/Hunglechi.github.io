@@ -1,6 +1,6 @@
 start = int(input("start: "))
 delta = int(input("delta: "))
-row = int(input("row: "))
+row = int(input("row: "))https://github.com/Hunglechi/Hunglechi.github.io/blob/main/L%C3%AA%20Ch%C3%AD%20H%C3%B9ng-Algorithm-Ex2.py
 
 def sumPart(n):
     du=0
@@ -23,5 +23,10 @@ for i in range(0,row-1):
             start=sumPart(start)
             print(start,end=" ")
     print("helloaaaaaa")
+
+    print("h")
+
+    print("hello")
+
 
 
