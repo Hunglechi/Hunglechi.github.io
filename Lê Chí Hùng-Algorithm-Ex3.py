@@ -24,3 +24,4 @@ for i in range(0,row-1):
             print(start,end=" ")
     print()
 # Checksquash
+#Checksquashhhhhhhhhhhhh
