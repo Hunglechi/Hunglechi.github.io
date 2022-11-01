@@ -7,4 +7,5 @@ class Shapes(object):
     def calculate_the_area_of_a_rectangle(length, width):
       return length * width
 #commit2
+#commitnewcheck2
 #commit main
